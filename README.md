@@ -18,9 +18,9 @@
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/admin-helper.git
--Coloque a pasta admin-helper dentro do diretório wp-content/plugins/ do seu site WordPress.
+- Coloque a pasta admin-helper dentro do diretório wp-content/plugins/ do seu site WordPress.
 
--Acesse o painel WordPress > Plugins > Ativar Admin Helper.
+- Acesse o painel WordPress > Plugins > Ativar Admin Helper.
 
 ## 🧩 Módulo: Pop-up
 -- O que ele faz?

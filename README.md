@@ -13,23 +13,6 @@
 
 ---
 
-## 📁 Estrutura do Plugin
-
-admin-helper/
-├── includes/ # Núcleo: menu principal, carregamento de módulos
-├── modules/ # Onde ficam os módulos (ex: popup)
-│ └── popup/
-│ ├── init.php
-│ ├── settings.php
-│ └── display.php
-├── admin-helper.php # Arquivo principal do plugin
-
-yaml
-Copiar
-Editar
-
----
-
 ## 🚀 Instalação
 
 1. Faça o download ou clone este repositório:

@@ -23,10 +23,10 @@
 - Acesse o painel WordPress > Plugins > Ativar Admin Helper.
 
 ## 🧩 Módulo: Pop-up
--- O que ele faz?
+O que ele faz?
 - Exibe um pop-up personalizável no frontend do site.
 
--- Como configurar?
+Como configurar?
 - Acesse Admin Helper > Pop-up
 
 - Marque a opção "Ativar pop-up"

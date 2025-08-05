@@ -18,24 +18,24 @@
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/admin-helper.git
-Coloque a pasta admin-helper dentro do diretório wp-content/plugins/ do seu site WordPress.
+-Coloque a pasta admin-helper dentro do diretório wp-content/plugins/ do seu site WordPress.
 
-Acesse o painel WordPress > Plugins > Ativar Admin Helper.
+-Acesse o painel WordPress > Plugins > Ativar Admin Helper.
 
 ## 🧩 Módulo: Pop-up
-O que ele faz?
-Exibe um pop-up personalizável no frontend do site.
+--O que ele faz?
+-Exibe um pop-up personalizável no frontend do site.
 
-Como configurar?
-Acesse Admin Helper > Pop-up
+--Como configurar?
+-Acesse Admin Helper > Pop-up
 
-Marque a opção "Ativar pop-up"
+-Marque a opção "Ativar pop-up"
 
-Defina o título e o conteúdo
+-Defina o título e o conteúdo
 
-Salve as configurações
+-Salve as configurações
 
-O pop-up aparecerá em todas as páginas públicas do seu site.
+-O pop-up aparecerá em todas as páginas públicas do seu site.
 ---
 
 ##🧱 Criando Novos Módulos
@@ -66,6 +66,6 @@ Envie um PR 😄
 ## 📄 Licença
 Este plugin é distribuído sob a Licença GPLv2 ou superior.
 
-##🙋 Suporte
+## 🙋 Suporte
 Para dúvidas ou sugestões, abra uma issue ou envie um e-mail para seu@email.com.
 

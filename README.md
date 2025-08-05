@@ -67,5 +67,5 @@ Envie um PR 😄
 Este plugin é distribuído sob a Licença GPLv2 ou superior.
 
 ## 🙋 Suporte
-Para dúvidas ou sugestões, abra uma issue ou envie um e-mail para seu@email.com.
+Para dúvidas ou sugestões, abra uma issue ou envie um e-mail para sjoao002miranda@gmail.com.
 
